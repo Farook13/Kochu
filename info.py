@@ -17,7 +17,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '12618934'))
 API_HASH = environ.get('API_HASH', '49aacd0bc2f8924add29fb02e20c8a16')
-BOT_TOKEN = environ.get('BOT_TOKEN', '7542270570:AAFSnFRGUqeKWpPNFKalRVnv_rcu5UPGOmw')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7542270570:AAEI_3Ak9CPMoTVMFg2COA9QAsODvishwxk')
 
 # Keep-Alive URL
 KEEP_ALIVE_URL = environ.get("KEEP_ALIVE_URL", "https://protective-carmine-musammil2007-a8248229.koyeb.app/")  # <-- Add this line
